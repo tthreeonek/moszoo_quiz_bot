@@ -71,8 +71,8 @@ moszoo_quiz_bot/
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/yourusername/moszoo-quiz-bot.git
-cd moszoo-quiz-bot
+git clone https://github.com/tthreeonek/moszoo_quiz_bot.git
+cd moszoo_quiz_bot
 ```
 
 ### 2. Установка зависимостей
